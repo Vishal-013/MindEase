@@ -1,0 +1,6 @@
+streamlit
+openai
+joblib
+scikit-learn
+huggingface_hub
+google-generativeai
